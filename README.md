@@ -1,2 +1,0 @@
-# DigiCapTrading
-DigiCapTrading documentation.
