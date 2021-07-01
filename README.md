@@ -1,2 +1,2 @@
-# DigiCapTrading
-DigiCapTrading documentation.
+# digicaptrading.github.io
+DigiCap Trading documentation.
