@@ -6,4 +6,4 @@ DigiCapTrading documentation
 
 ## Content
 
-* [Back testing](./back-testing)
+* [Back testing](/back-testing)
