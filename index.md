@@ -7,3 +7,5 @@ DigiCapTrading documentation
 ## Content
 
 * [Back testing](back-testing.MD)
+
+* [EURETH - case study](case-study-EURETH.MD)
