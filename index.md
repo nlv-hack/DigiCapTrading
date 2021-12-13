@@ -1,11 +1,11 @@
-# Welcome to DigiCap Trading
+# Welcome to Chameleon Suite Trading
 
-DigiCapTrading documentation
-
-![https://bot.digicaptrading.com/assets/img/brand/d_w400_blck.png](DigiCap Trading)
+Chameleon suite trading documentation
 
 ## Content
 
-* [Back testing](back-testing.MD)
+- [Back testing](back-testing.MD)
 
-* [EURETH - case study](case-study-EURETH.MD)
+- [EURETH - case study](case-study-EURETH.MD)
+
+- [Dynamic trading](dynamic-trading.MD)
